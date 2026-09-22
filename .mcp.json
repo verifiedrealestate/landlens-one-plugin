@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "landlens": {
+      "type": "http",
+      "url": "https://verified.realestate/mcp"
+    }
+  }
+}

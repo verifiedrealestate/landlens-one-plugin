@@ -1,0 +1,17 @@
+{
+  "name": "landlens-one",
+  "owner": {
+    "name": "Verified.RealEstate",
+    "email": "hello@verified.realestate"
+  },
+  "metadata": {
+    "description": "LandLens One by Verified.RealEstate: Tamil Nadu land and property registers as tools for Claude."
+  },
+  "plugins": [
+    {
+      "name": "landlens-one",
+      "source": "./",
+      "description": "Tamil Nadu land records, guideline values, encumbrance, zoning and approvals from the state's government registers, as tools for Claude."
+    }
+  ]
+}

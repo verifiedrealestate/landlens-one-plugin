@@ -1,0 +1,14 @@
+{
+  "name": "landlens-one",
+  "version": "1.0.0",
+  "description": "Tamil Nadu land records, guideline values, encumbrance, zoning and approvals from the state's government registers, as tools for Claude. Connects to the LandLens One MCP server.",
+  "author": {
+    "name": "Verified.RealEstate",
+    "email": "hello@verified.realestate",
+    "url": "https://verified.realestate"
+  },
+  "homepage": "https://verified.realestate/landlens/mcp",
+  "repository": "https://github.com/verifiedrealestate/landlens-one-plugin",
+  "license": "MIT",
+  "keywords": ["tamil-nadu", "land-records", "real-estate", "india", "guideline-value", "encumbrance", "mcp"]
+}
