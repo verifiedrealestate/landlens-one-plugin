@@ -8,7 +8,17 @@
     "url": "https://verified.realestate"
   },
   "homepage": "https://verified.realestate/landlens/mcp",
+  "privacyPolicyUrl": "https://verified.realestate/privacy-policy",
   "repository": "https://github.com/verifiedrealestate/landlens-one-plugin",
   "license": "MIT",
-  "keywords": ["tamil-nadu", "land-records", "real-estate", "india", "guideline-value", "encumbrance", "mcp"]
+  "keywords": [
+    "tamil-nadu",
+    "land-records",
+    "real-estate",
+    "india",
+    "guideline-value",
+    "encumbrance",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png"
 }
